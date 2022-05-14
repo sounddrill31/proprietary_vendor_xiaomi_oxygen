@@ -35,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/vendor/etc/camera/oxygen_ov12a_sunny_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/oxygen_ov12a_sunny_chromatix.xml \
     vendor/xiaomi/oxygen/proprietary/vendor/etc/camera/oxygen_s5k5e8_ofilm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/oxygen_s5k5e8_ofilm_chromatix.xml \
     vendor/xiaomi/oxygen/proprietary/vendor/etc/camera/oxygen_s5k5e8_qtech_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/oxygen_s5k5e8_qtech_chromatix.xml \
-    vendor/xiaomi/oxygen/proprietary/vendor/firmware/goodix_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_firmware.bin \
     vendor/xiaomi/oxygen/proprietary/vendor/lib64/hw/consumerir.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.msm8953.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib64/hw/fingerprint.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.msm8953.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib64/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_fpc_tac_shared.so \
