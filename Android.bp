@@ -16,3 +16,10 @@ android_app_import {
 	system_ext_specific: true,
 }
 
+dex_import {
+	name: "com.qualcomm.qti.uceservice-V2.0-java",
+	owner: "xiaomi",
+	jars: ["proprietary/system_ext/framework/com.qualcomm.qti.uceservice-V2.0-java.jar"],
+	system_ext_specific: true,
+}
+
